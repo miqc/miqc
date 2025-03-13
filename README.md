@@ -1,4 +1,4 @@
-## Welcome to my profile!
+## <h1 align="center">Hi 👋, I'm Micael Leal </h1>
 
 ```rust
 fn main() {
