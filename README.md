@@ -3,10 +3,9 @@
 ```rust
 fn main() {
     let _name = "Micael Leal";
-    let _course = "Analysis and Development student";
+    let _course = "Analysis and Development";
 
-    let _location = "São José dos Campos, São Paulo, Brazil";
-    let _company = "O2D - On Demand Development";
+    let _location = "São José dos Campos, São Paulo, Brazil";;
 }
 
 ```
