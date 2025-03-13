@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mqc&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqc&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqc&layout=donut)](https://github.com/miqc/github-readme-stats)
 
