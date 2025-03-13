@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu perfil! / Welcome to my profile!
+## Welcome to my profile!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mqc&show_icons=true&theme=dark)
 
