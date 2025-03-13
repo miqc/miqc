@@ -1,5 +1,16 @@
 ## Welcome to my profile!
 
+```rust
+fn main() {
+    let _name = "Micael Leal";
+    let _course = "Analysis and Development student";
+
+    let _location = "São José dos Campos, São Paulo, Brazil";
+    let _company = "O2D - On Demand Development";
+}
+
+```
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqc&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqc&langs_count=8&theme=dark)
