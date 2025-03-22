@@ -29,7 +29,7 @@ fn main() {
 </a>
 
 <a href="https://github.com/miqc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=miqc&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=miqc&show_icons=true&theme=dark&line_height=27" alt="miqc github stats"/>
 </a>
 
   ##
