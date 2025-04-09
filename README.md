@@ -5,7 +5,7 @@ fn main() {
     let _name = "Micael Leal";
     let _course = "Analysis and Development";
 
-    let _location = "São José dos Campos, São Paulo, Brazil";;
+    let _location = "São José dos Campos, São Paulo, Brazil";
 }
 
 ```
