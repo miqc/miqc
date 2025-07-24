@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Laravel & Web Enthusiast | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
 ```php
-public class main() {
+    <?php
     $name = "Micael Leal";
     $course = "Analysis and Systems Development";
     $location = "São José dos Campos, São Paulo, Brazil";
