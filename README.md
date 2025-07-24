@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Laravel & Web Enthusiast | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
 ```php
-    public function index()
+    public function main()
         {
             $data = [
                 'name' => 'Micael Leal',
