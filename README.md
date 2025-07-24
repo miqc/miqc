@@ -1,7 +1,7 @@
 🧑‍💻 <h1 align="center">Hi 👋, I'm Micael Leal</h1>
 <h3 align="center">Aspiring Software Developer | Laravel & Web Enthusiast | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
-```laravel
+```php
     public function main()
         {
             $data = [
