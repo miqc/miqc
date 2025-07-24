@@ -2,10 +2,13 @@
 <h3 align="center">Aspiring Software Developer | Laravel & Web Enthusiast | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
 ```php
-    <?php
-    $name = "Micael Leal";
-    $course = "Analysis and Systems Development";
-    $location = "São José dos Campos, São Paulo, Brazil";
+    public function index()
+        {
+            $data = [
+                'name' => 'Micael Leal',
+                'course' => 'Analysis and Systems Development',
+                'location' => 'São José dos Campos, São Paulo, Brazil'
+        ];
 }
 ```
 🚀 Technologies & Tools
