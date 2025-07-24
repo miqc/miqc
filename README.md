@@ -1,11 +1,11 @@
 🧑‍💻 <h1 align="center">Hi 👋, I'm Micael Leal</h1>
 <h3 align="center">Aspiring Software Developer | Laravel & Web Enthusiast | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
-```rust
-fn main() {
-    let name = "Micael Leal";
-    let course = "Analysis and Systems Development";
-    let location = "São José dos Campos, São Paulo, Brazil";
+```php
+public class main() {
+    $name = "Micael Leal";
+    $course = "Analysis and Systems Development";
+    $location = "São José dos Campos, São Paulo, Brazil";
 }
 ```
 🚀 Technologies & Tools
