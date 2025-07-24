@@ -2,14 +2,14 @@
 <h3 align="center">Aspiring Software Developer | Laravel & Web Enthusiast | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
 ```php
-    public function main()
-        {
-            $data = [
-                'name' => 'Micael Leal',
-                'course' => 'Analysis and Systems Development',
-                'location' => 'São José dos Campos, São Paulo, Brazil'
-            ];
-        }
+public function main()
+    {
+        $data = [
+        'name' => 'Micael Leal',
+        'course' => 'Analysis and Systems Development',
+        'location' => 'São José dos Campos, São Paulo, Brazil'
+                ];
+    }
 ```
 🚀 Technologies & Tools
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> <img src="https://cdnlogo.com/logos/m/78/mysql.svg" alt="MySQL" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </p>
