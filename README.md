@@ -8,7 +8,7 @@ public function main()
         'name' => 'Micael Leal',
         'course' => 'Analysis and Systems Development',
         'location' => 'São José dos Campos, São Paulo, Brazil'
-         ];
+      ];
     }
 ```
 🚀 Technologies & Tools
