@@ -12,7 +12,8 @@ public function main()
     }
 ```
 🚀 Technologies & Tools
-<p align="center"> <img src="https://cdnlogo.com/logos/m/78/mysql.svg" alt="MySQL" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </p>
+<p align="center"> <img src="https://cdnlogo.com/logos/m/78/mysql.svg" alt="MySQL" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=miqc&show_icons=true&theme=tokyonight&hide_border=true" alt="Micael GitHub Stats"/> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p>
 📫 Connect with Me
