@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Micael Leal </h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from Brazil</h3><br>
-<img align="right" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"><br>
+<img align="right" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
+<br>
 - 🔭 I’m currently working on [Prefeitura de São José dos Campos](http://sjc.sp.gov.br/)
 
 - 👨‍💻 All of my projects are available at [miuc]()
