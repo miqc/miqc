@@ -14,7 +14,7 @@
 <br><br><br>
 ```python
 def main():
-  name = "Micael leal",
+  name = "Micael Leal",
   university = "University Paulista - UNIP",
   location = "São José dos Campos, São Paulo, Brazil"
 ```
