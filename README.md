@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Micael Leal</h1>
+<h1 align="center">I'm Micael Leal</h1>
 <h3 align="center">Aspiring Software Developer | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
 ```python
