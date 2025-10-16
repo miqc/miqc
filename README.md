@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Micael Leal</h1>
 <h3 align="center">Aspiring Software Developer | São José dos Campos, SP - Brazil 🇧🇷</h3>
 
-```php
-public function main()
-    {
-        $data = [
-        'name' => 'Micael Leal',
-        'course' => 'Analysis and Systems Development',
-        'location' => 'São José dos Campos, São Paulo, Brazil'
-      ];
-    }
+```python
+def main():
+        name = "Micael leal",
+        course = "Analysis and Systems Development",
+        location = "São José dos Campos, São Paulo, Brazil"
 ```
 🚀 Technologies & Tools
 <p align="center"> <img src="https://cdnlogo.com/logos/m/78/mysql.svg" alt="MySQL" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
