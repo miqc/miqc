@@ -3,9 +3,9 @@
 
 ```python
 def main():
-        name = "Micael leal",
-        course = "Analysis and Systems Development",
-        location = "São José dos Campos, São Paulo, Brazil"
+  name = "Micael leal",
+  course = "Analysis and Systems Development",
+  location = "São José dos Campos, São Paulo, Brazil"
 ```
 🚀 Technologies & Tools
 <p align="center"> <img src="https://cdnlogo.com/logos/m/78/mysql.svg" alt="MySQL" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
