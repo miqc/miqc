@@ -15,7 +15,7 @@
 ```python
 def main():
   name = "Micael leal",
-  course = "Analysis and Systems Development",
+  university = "University Paulista - UNIP",
   location = "São José dos Campos, São Paulo, Brazil"
 ```
 📊 GitHub Stats
