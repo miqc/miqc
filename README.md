@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/micaeldev/)
 
-- 💬 Ask me about **Python, Django, APIs, Java, SQL**
+- 💬 Ask me about **Python, Django, APIs, TS, SQL**
 
 - 📫 How to reach me **mica.dev@outlook.com**
 <br><br><br>
