@@ -18,7 +18,7 @@ Certified in Scrum Fundamentals (SFC).
 
 **Backend:** Node.js, Django, FastAPI, Spring, SQL
 
-**AI & Automation:** Artificial Intelligence, n8n
+**AI & Automation:** Artificial Intelligence, n8n, Neuro-Linguistic Programming (PLN)
 
 **Tools:** Git, GitHub, Docker, Postman. Swagger
 
