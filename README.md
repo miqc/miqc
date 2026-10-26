@@ -28,4 +28,4 @@ Certified in Scrum Fundamentals (SFC).
 
 **Email:** mica.dev@outlook.com
 
-**Portfolio:** https://www.miuc.dev 
+**Portfolio:** https://miuc.dev 
