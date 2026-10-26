@@ -12,15 +12,15 @@ Certified in Scrum Fundamentals (SFC).
 
 ## Technologies
 
-**Languages:** Python, TypeScript, JavaScript, Java
+**Languages:** Python, TypeScript, Java
 
-**Frontend:** React
+**Frontend:** React, Next.js, Tailwind CSS, Bootstrap
 
-**Backend:** Node.js
+**Backend:** Node.js, Django, FastAPI, Spring
 
 **AI & Automation:** Artificial Intelligence, n8n
 
-**Tools:** Git, GitHub, Docker
+**Tools:** Git, GitHub, Docker, Postman. Swagger
 
 ## Contact
 
