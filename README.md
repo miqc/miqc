@@ -16,7 +16,7 @@ Certified in Scrum Fundamentals (SFC).
 
 **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
 
-**Backend:** Node.js, Django, FastAPI, Spring
+**Backend:** Node.js, Django, FastAPI, Spring, SQL
 
 **AI & Automation:** Artificial Intelligence, n8n
 
