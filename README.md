@@ -4,7 +4,7 @@ Software Development Intern at São José dos Campos City Hall | Full-Stack Deve
 
 ## About
 
-Software Development Intern at São José dos Campos City Hall, currently pursuing a degree in Systems Analysis and Development at UNIP.
+Software Development Intern at São José dos Campos City Hall, currently pursuing a degree in Artificial Inteligence at UNICIVE.
 
 Focused on full-stack development, artificial intelligence, workflow automation, and building practical software solutions.
 
