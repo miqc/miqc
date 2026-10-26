@@ -28,13 +28,6 @@ Certified in Scrum Fundamentals (SFC).
 
 **Email:** mica.dev@outlook.com
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miqc&show_icons=true&theme=onedark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqc&layout=compact&theme=onedark&hide_border=true" />
-</p>
-
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miqc&theme=github-compact&hide_border=true" />
 </p>
